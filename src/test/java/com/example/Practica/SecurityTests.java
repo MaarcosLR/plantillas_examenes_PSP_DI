@@ -1,4 +1,4 @@
-// src/test/java/com/example/stock/SecurityTests.java
+// src/testGettersAndSetters/java/com/example/stock/SecurityTests.java
 package com.example.Practica;
 
 import org.junit.jupiter.api.BeforeEach;
